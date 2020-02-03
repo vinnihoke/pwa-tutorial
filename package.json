@@ -1,0 +1,11 @@
+{
+  "name": "pwa-tutorial",
+  "version": "1.0.0",
+  "description": "Net Ninja Tutorial on Progressive Web Apps. https://youtu.be/4XT23X0Fjfk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinni Hoke",
+  "license": "ISC"
+}
